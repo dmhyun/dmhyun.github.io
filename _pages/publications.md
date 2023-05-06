@@ -20,7 +20,7 @@ Conferences
 - **Conditional Graph Information Bottleneck for Molecular Relational Learning**\\
 Namkyeong Lee, **Dongmin Hyun**, Gyoung S. Na, Sungwon Kim, Junseok Lee, and Chanyoung Park\\
 ICML, 2023\\
-[[paper]](http://to-be-appeared) [[code]](http://to-be-appeared)
+[[paper]](https://arxiv.org/pdf/2305.01520.pdf) [[code]](https://github.com/Namkyeong/CGIB)
 
 - **Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation**\\
 Kibum Kim, **Dongmin Hyun**, Sukwon Yun, and Chanyoung Park\\
