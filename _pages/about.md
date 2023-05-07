@@ -70,6 +70,7 @@ Academic Service
 - NCIT (2022)
 
 **Journal Reviwer**
+- Neurocomputing
 - Scientific Reports
 - Information Science
 - Knowledge-Based Systems
