@@ -79,8 +79,8 @@ Academic Service
 - Geo-spatial Information Science
 - Advanced Engineering Informatics
 - Engineering Applications of Artificial Intelligence (EAAI)
-- ACM Transactions on Intelligent Systems and Technology (TIST)
 - International Journal of Data Science and Analytics (JDSA)
+- ACM Transactions on Intelligent Systems and Technology (TIST)
 
 
 
