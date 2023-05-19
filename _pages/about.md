@@ -74,8 +74,8 @@ Academic Service
 - Neurocomputing
 - Scientific Reports
 - Information Science
-- Knowledge-Based Systems
 - Digital Signal Processing
+- Knowledge-Based Systems
 - Geo-spatial Information Science
 - Advanced Engineering Informatics
 - Engineering Applications of Artificial Intelligence (EAAI)
