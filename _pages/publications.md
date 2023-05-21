@@ -97,6 +97,11 @@ SIGIR short, 2018\\
 
 Journals
 -----
+- **Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning**\\
+Junseok Lee, Sungwon Kim, **Dongmin Hyun**, Namkyeong Lee, Yejin Kim, and Chanyoung Park \\
+Bioinformatics,2023 (SCI)\\
+[[paper]](http://to-be-appeared) [[code]](http://to-be-appeared)
+
 - **Learning to Utilize Auxiliary Reviews for Recommendation**\\
 **Dongmin Hyun**, Chanyoung Park, Junsu Cho and Hwanjo Yu\\
 Information Sciences, 2021 (SCI)\\
