@@ -74,6 +74,7 @@ Academic Service
 **Journal Reviwer**
 - Neurocomputing
 - Scientific Reports
+- Journal of Big Data
 - Information Science
 - Digital Signal Processing
 - Knowledge-Based Systems
