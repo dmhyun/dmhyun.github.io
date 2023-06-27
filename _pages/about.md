@@ -19,7 +19,7 @@ Research Interest
 
 News
 -----
-- (May, 2023) A paper got accepted at Bioinformatics 2023.
+- (May, 2023) A paper got accepted at Bioinformatics & ICML workshop 2023.
 - (Apr, 2023) A paper got accepted at ICML 2023.
 - (Apr, 2023) A paper got accepted at SIGIR 2023.
 - (Mar, 2023) A paper got accepted at ICLR 2023 workshop.
