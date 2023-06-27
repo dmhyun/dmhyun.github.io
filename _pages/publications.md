@@ -99,7 +99,7 @@ Journals
 -----
 - **Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning**\\
 Junseok Lee, Sungwon Kim, **Dongmin Hyun**, Namkyeong Lee, Yejin Kim, and Chanyoung Park \\
-Bioinformatics, 2023 (SCI) \& ICML 2023 Workshop on Computational Biology\\
+Bioinformatics (SCI), ICML 2023 Workshop on Computational Biology\\
 [[paper]](https://academic.oup.com/bioinformatics/article/39/6/btad342/7180270) [[code]](https://github.com/Junseok0207/scGPCL/)
 
 - **Learning to Utilize Auxiliary Reviews for Recommendation**\\
