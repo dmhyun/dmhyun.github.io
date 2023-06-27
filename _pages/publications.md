@@ -44,7 +44,7 @@ AAAI, 2023\\
 
 - **Generating Multiple-Length Summaries via Reinforcement Learning for Unsupervised Sentence Summarization**\\
 **Dongmin Hyun**, Xiting Wang, Chayoung Park, Xing Xie and Hwanjo Yu\\
-EMNLP Findings, 2022\\
+EMNLP Findings, workshop on SustaiNLP 2022\\
 [[paper]](https://aclanthology.org/2022.findings-emnlp.214) [[code]](https://github.com/dmhyun/MSRP) 
 
 - **Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability**\\
