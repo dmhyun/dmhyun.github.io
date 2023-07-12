@@ -75,6 +75,7 @@ Academic Service
 - Neurocomputing
 - Scientific Reports
 - Journal of Big Data
+- Pattern Recognition
 - Information Science
 - Digital Signal Processing
 - Knowledge-Based Systems
