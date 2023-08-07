@@ -17,6 +17,11 @@ author_profile: true
 
 Conferences
 -----
+- **Muffin: Music Recommender System via Shuffle Invariant Training**\\
+Yunhak Oh, Sukwon Yun, **Dongmin Hyun**, Sein Kim and Chanyoung Park\\
+CIKM, 2023\\
+[[paper]](https://to-be-published) [[code]](https://to-be-published)
+
 - **Conditional Graph Information Bottleneck for Molecular Relational Learning**\\
 Namkyeong Lee, **Dongmin Hyun**, Gyoung S. Na, Sungwon Kim, Junseok Lee, and Chanyoung Park\\
 ICML, 2023\\
