@@ -41,9 +41,14 @@ News
 
 Experience
 -----
+  * **Yahoo Research**
+    * Research Scientist (9/2023 - current)
+    * Manager: [Rao Shen](https://www.linkedin.com/in/rao-shen-63b3011/).
+    * Focus: AI models for Yahoo News
+
   * **POSTECH**
-    * Postdoctoral researcher in [DILAB](https://sites.google.com/view/postechdi) (3/2022 - Present)
-    * Mentor: [Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu ).
+    * Postdoctoral researcher in [DILAB](https://sites.google.com/view/postechdi) (3/2022 - 8/2023)
+    * Mentor: [Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu).
     * Focus: Recommender system and Natural language generation
 
   * **Microsoft Research Asia**
