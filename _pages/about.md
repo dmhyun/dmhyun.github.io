@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 -----
-Dongmin Hyun is a postdoctoral researcher in the Institute of Artificial Intelligence at [POSTECH](https://github.com/academicpages/academicpages.github.io), South Korea, working with [Prof. Hwanjo Yu](https://github.com/academicpages/academicpages.github.io). His research interest lies in recommender systems and natural language processing (NLP). He has studied users' explicit and implicit feedback to build recommender systems, and text classification and generation to devise NLP applications.
+Dongmin Hyun is a research scientist at [Yahoo Research](https://research.yahoo.com) (Mountain View, California). He was a postdoctoral researcher in the Institute of Artificial Intelligence at [POSTECH](https://github.com/academicpages/academicpages.github.io), South Korea, working with [Prof. Hwanjo Yu](https://github.com/academicpages/academicpages.github.io). His research interest lies in recommender systems and natural language processing (NLP). He has studied users' explicit and implicit feedback to build recommender systems, and text classification and generation to devise NLP applications.
 
 Research Interest
 -----
