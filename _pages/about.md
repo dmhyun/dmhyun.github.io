@@ -19,6 +19,7 @@ Research Interest
 
 News
 -----
+- (Sep, 2023) A paper got accepted at NeurIPS 2023.
 - (Aug, 2023) A paper got accepted at CIKM 2023.
 - (May, 2023) A paper got accepted at Bioinformatics, ICML workshop 2023.
 - (Apr, 2023) A paper got accepted at ICML 2023.
