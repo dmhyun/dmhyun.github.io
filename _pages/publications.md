@@ -17,6 +17,11 @@ author_profile: true
 
 Conferences
 -----
+- **Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer**\\
+Namkyeong Lee, Heewoong Noh, Sungwon Kim, **Dongmin Hyun**, Gyoung S. Na, Chanyoung Park \\
+NeurIPS, 2023\\
+[[paper]](https://to-be-published) [[code]](https://to-be-published)
+
 - **Muffin: Music Recommender System via Shuffle Invariant Training**\\
 Yunhak Oh, Sukwon Yun, **Dongmin Hyun**, Sein Kim and Chanyoung Park\\
 CIKM, 2023\\
