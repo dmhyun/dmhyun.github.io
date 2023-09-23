@@ -20,6 +20,7 @@ Research Interest
 News
 -----
 - (Sep, 2023) A paper got accepted at NeurIPS 2023.
+- (Mar, 2022) I joined [Yahoo Research](https://research.yahoo.com) as a researcher scientist.
 - (Aug, 2023) A paper got accepted at CIKM 2023.
 - (May, 2023) A paper got accepted at Bioinformatics, ICML workshop 2023.
 - (Apr, 2023) A paper got accepted at ICML 2023.
@@ -31,12 +32,6 @@ News
 - (Apr, 2022) A paper got accepted at SIGIR 2022.
 - (Mar, 2022) I joined [DILAB](https://sites.google.com/view/postechdi) as a postdoctoral researcher.
 - (Feb, 2022) I depended Ph.D. thesis.
-- (Jun, 2021) A paper got accepted at ICDM 2021.
-- (Jun, 2021) I successfully completed my internship at MSRA.
-- (Apr, 2021) A paper got accepted at SIGIR 2021.
-- (Feb, 2021) A paper got accepted at WWW 2021.
-- (Sep, 2020) A paper got accepted at COLING 2020.
-- (Apr, 2020) A paper got accepted at ICDM 2020.
 - ...
 
 
