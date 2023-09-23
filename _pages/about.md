@@ -20,7 +20,7 @@ Research Interest
 News
 -----
 - (Sep, 2023) A paper got accepted at NeurIPS 2023.
-- (Mar, 2022) I joined [Yahoo Research](https://research.yahoo.com) as a researcher scientist.
+- (Sep, 2023) I joined [Yahoo Research](https://research.yahoo.com) as a researcher scientist.
 - (Aug, 2023) A paper got accepted at CIKM 2023.
 - (May, 2023) A paper got accepted at Bioinformatics, ICML workshop 2023.
 - (Apr, 2023) A paper got accepted at ICML 2023.
