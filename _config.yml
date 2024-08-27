@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dongmin Hyun"
   avatar           : "dmh.jpeg"
-  bio              : "Research Scientist at Yahoo Research (dhyun@yahooinc.com)"
+  bio              : "Research Scientist at Yahoo Research"
   location         : "Mountain View, CA, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UkmiMawAAAAJ"
-  email            :
+  email            : "dm.hyun@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
